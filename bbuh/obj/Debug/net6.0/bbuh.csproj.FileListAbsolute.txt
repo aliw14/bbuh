@@ -1,0 +1,15 @@
+/Users/ali/Projects/bbuh/bbuh/bin/Debug/net6.0/bbuh
+/Users/ali/Projects/bbuh/bbuh/bin/Debug/net6.0/bbuh.deps.json
+/Users/ali/Projects/bbuh/bbuh/bin/Debug/net6.0/bbuh.runtimeconfig.json
+/Users/ali/Projects/bbuh/bbuh/bin/Debug/net6.0/bbuh.dll
+/Users/ali/Projects/bbuh/bbuh/bin/Debug/net6.0/bbuh.pdb
+/Users/ali/Projects/bbuh/bbuh/obj/Debug/net6.0/bbuh.csproj.AssemblyReference.cache
+/Users/ali/Projects/bbuh/bbuh/obj/Debug/net6.0/bbuh.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/Projects/bbuh/bbuh/obj/Debug/net6.0/bbuh.AssemblyInfoInputs.cache
+/Users/ali/Projects/bbuh/bbuh/obj/Debug/net6.0/bbuh.AssemblyInfo.cs
+/Users/ali/Projects/bbuh/bbuh/obj/Debug/net6.0/bbuh.csproj.CoreCompileInputs.cache
+/Users/ali/Projects/bbuh/bbuh/obj/Debug/net6.0/bbuh.dll
+/Users/ali/Projects/bbuh/bbuh/obj/Debug/net6.0/refint/bbuh.dll
+/Users/ali/Projects/bbuh/bbuh/obj/Debug/net6.0/bbuh.pdb
+/Users/ali/Projects/bbuh/bbuh/obj/Debug/net6.0/bbuh.genruntimeconfig.cache
+/Users/ali/Projects/bbuh/bbuh/obj/Debug/net6.0/ref/bbuh.dll
